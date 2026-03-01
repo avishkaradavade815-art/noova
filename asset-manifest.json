@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/noova/static/css/main.386ab4d5.css",
-    "main.js": "/noova/static/js/main.41024285.js",
-    "index.html": "/noova/index.html",
-    "main.386ab4d5.css.map": "/noova/static/css/main.386ab4d5.css.map",
-    "main.41024285.js.map": "/noova/static/js/main.41024285.js.map"
+    "main.css": "/static/css/main.386ab4d5.css",
+    "main.js": "/static/js/main.41024285.js",
+    "index.html": "/index.html",
+    "main.386ab4d5.css.map": "/static/css/main.386ab4d5.css.map",
+    "main.41024285.js.map": "/static/js/main.41024285.js.map"
   },
   "entrypoints": [
     "static/css/main.386ab4d5.css",
